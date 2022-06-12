@@ -64,7 +64,7 @@ const Charts = () => {
           y: 70,
           r: 10
         }],
-        backgroundColor: 'green',
+        backgroundColor: 'orange',
       },
     ]
   );
