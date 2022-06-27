@@ -97,7 +97,7 @@ const Charts = () => {
         r: CurrPlace
       }],
       backgroundColor: 'blue',
-    }])
+    }]);
   }
 
 
